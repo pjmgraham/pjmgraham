@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BlueBoo](www.blueboo.org)
 
-- 🌱 I’m currently learning **JavasScript with React.**
+- 🌱 I’m currently learning **JavasScript with React & Node.js.**
 
 - 📫 How to reach me **patrick.j.m.graham@icloud.com**
 
