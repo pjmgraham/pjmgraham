@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [BlueBoo](http://www.blueboo.org/)
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me **patrick.j.m.graham@icloud.com**
+- 📫 How to reach me **pjmgraham.codes@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
